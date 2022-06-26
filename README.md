@@ -1,2 +1,2 @@
 # TicTacToeMobile
-!(1.JPG)
+![alt text](image/1.jpg)
